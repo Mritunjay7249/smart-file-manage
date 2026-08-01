@@ -5,6 +5,8 @@ Ek desktop file management app jo Python aur PyQt6 se banayi gayi hai — files 
 ## Features
 
 - 📁 Auto file organizer (type ke basis par)
+- <img width="952" height="499" alt="Screenshot 2026-08-01 221536" src="https://github.com/user-attachments/assets/2b09027c-fc7d-4466-a83a-196e2de354c9" />
+
 - 🔍 Duplicate file finder (hash-based)
 - ✏️ Bulk rename tool
 - 👁️ File preview
