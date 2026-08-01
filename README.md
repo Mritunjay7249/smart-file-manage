@@ -30,7 +30,10 @@ Ek desktop file management app jo Python aur PyQt6 se banayi gayi hai — files 
 
 ## Screenshots
 
-(yahan apne app ke 2-3 screenshots daalo)
+<img width="953" height="508" alt="Screenshot 2026-08-01 221735" src="https://github.com/user-attachments/assets/fac78d0e-3095-43bb-a3eb-6678befeb674" />
+<img width="953" height="481" alt="Screenshot 2026-08-01 221836" src="https://github.com/user-attachments/assets/92b54533-0a8c-4495-a8d9-e3e17023a478" />
+<img width="953" height="494" alt="Screenshot 2026-08-01 221901" src="https://github.com/user-attachments/assets/ef8c9041-3296-40c0-9f81-af4dbc6a1d70" />
+
 
 ## Installation
 
